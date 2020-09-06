@@ -1,0 +1,7 @@
+C:\Users\danim\source\repos\FurnitureShop\FurnitureShop\bin\Debug\FurnitureShop.exe.config
+C:\Users\danim\source\repos\FurnitureShop\FurnitureShop\bin\Debug\FurnitureShop.exe
+C:\Users\danim\source\repos\FurnitureShop\FurnitureShop\bin\Debug\FurnitureShop.pdb
+C:\Users\danim\source\repos\FurnitureShop\FurnitureShop\obj\Debug\FurnitureShop.csprojAssemblyReference.cache
+C:\Users\danim\source\repos\FurnitureShop\FurnitureShop\obj\Debug\FurnitureShop.csproj.CoreCompileInputs.cache
+C:\Users\danim\source\repos\FurnitureShop\FurnitureShop\obj\Debug\FurnitureShop.exe
+C:\Users\danim\source\repos\FurnitureShop\FurnitureShop\obj\Debug\FurnitureShop.pdb
